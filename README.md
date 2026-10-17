@@ -4,6 +4,8 @@ Plugin local de Moodle desarrollado por **SiteEcuador S.A.S.**
 
 Personaliza el acceso con video de YouTube, etiqueta de usuario o cédula, controles para visualizar contraseñas y una página de soporte con afiche y contactos configurables.
 
+<img width="1600" height="2543" alt="Image" src="https://github.com/user-attachments/assets/0f55de55-707d-4791-a8f9-71d82c14073b" />
+
 ## Compatibilidad
 - Objetivo: Moodle 5.3+, tema Boost.
 - Componente interno: `local_apclogin`.
@@ -33,3 +35,4 @@ Desarrollado por **SiteEcuador S.A.S.**. Código bajo GNU GPL v3 o posterior. La
 Versión 1.0.5. Pendiente de validación completa en una instalación real de Moodle 5.3.
 
 El código fuente de la distribución está pendiente de incorporarse al repositorio.
+
